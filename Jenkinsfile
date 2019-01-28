@@ -40,7 +40,7 @@
             echo 'I succeeeded!'
         }
         unstable {
-            echo 'I am unstable!'
+            echo 'I am unstable -_-'
         }
         failure {
             echo 'I failed :('
